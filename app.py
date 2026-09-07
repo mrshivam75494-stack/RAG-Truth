@@ -293,7 +293,7 @@ st.markdown(
 st.markdown(
     """
     <div class="fc-masthead">
-        <h1>FaithCheck</h1>
+        <h1>RAG-Truth</h1>
         <div class="fc-tag">Faithfulness verification for AI-generated answers</div>
     </div>
     <div class="fc-subline">
