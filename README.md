@@ -1,4 +1,4 @@
-# FaithCheck — AI Answer Faithfulness Verifier
+# RAG-TRUTH— AI Answer Faithfulness Verifier
 
 An MVP tool that catches hallucinated AI answers before they cause liability
 in legal, campus-policy, or enterprise deployments. It takes a **Query**,
